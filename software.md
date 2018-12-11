@@ -17,6 +17,9 @@ I mainly use this computer for light task. Like writing, browsing and listening.
 **server**: [lighttpd](https://www.lighttpd.net/) \
 **terminal client**: [termite](https://github.com/thestinger/termite)
 
+## games
+**dungeon crawl** \
+**boohu**
 ## preferences
 **creating documents**: [org-mode](https://orgmode.org/), html, markdown \
 **programming**: scripting (lua, javascript, perl), C (simple programs) and elisp (functional) \
