@@ -3,10 +3,10 @@
 I mainly use this computer for light task. Like writing, browsing and listening. It is my laptop.
 
 ## Desktop
-**WM**: [i3](https://github.com/i3/i3) \
-**bar**: [i3status](https://github.com/i3/i3status) \
+**WM**: [i3](https://github.com/i3/i3), [herbluftswm](https://herbstluftwm.org/) \
+**bar**: [i3status](https://github.com/i3/i3status), [lemonbar](https://github.com/LemonBoy/bar) \
 **wallpaper**: [feh](https://feh.finalrewind.org/) \
-**menu**: [dmenu](https://tools.suckless.org/dmenu/)
+**menu**: [dmenu](https://tools.suckless.org/dmenu/), [rofi](https://github.com/DaveDavenport/rofi)
 
 ## applications
 **RSS**: [elfeed](https://github.com/skeeto/elfeed), [moonmoon](https://github.com/moonmoon/moonmoon) \
